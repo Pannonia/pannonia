@@ -1,0 +1,36 @@
+<shortcuts>
+	<skipIfNotSupported/>
+	<defaultCurrentUser/>
+	<programGroup defaultName="Pannonia" location="startMenu"/>
+	<shortcut
+		name="Pannonia Server"
+		target="$INSTALL_PATH\Pannonia.exe"
+		commandLine=""
+		workingDirectory="$INSTALL_PATH"
+        description="Start Pannonia server"
+		iconFile="$INSTALL_PATH\html\www\favicon.ico"
+        iconIndex="0"
+        initialState="normal"
+        programGroup="yes"
+		desktop="yes"
+        applications="no"
+        startMenu="no"
+		startup="no"
+		runAsAdministrator="true">
+	</shortcut>	
+	<shortcut
+		name="Pannonia Wallet"
+		target="http://localhost:5874/index.html"
+		commandLine=""
+		workingDirectory="$INSTALL_PATH"
+        description="Launch Pannonia wallet in browser"
+		iconFile="$INSTALL_PATH\html\www\favicon.ico"
+        iconIndex="0"
+        initialState="normal"
+        programGroup="yes"
+		desktop="yes"
+        applications="no"
+        startMenu="no"
+		startup="no">
+	</shortcut>	
+</shortcuts>
