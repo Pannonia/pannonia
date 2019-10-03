@@ -22,7 +22,7 @@ http://pannon.boards.net
 ## Run it! ##
 
   - click on the PAN icon, or start from the command line:
-  - Unix: `./start.sh`
+  - Unix: `./run.sh`
   - Window: `run.bat`
 
   - wait for the JavaFX wallet window to open
