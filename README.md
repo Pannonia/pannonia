@@ -5,6 +5,9 @@
 ## What is PAN? ##
 PAN is a cryptocurrency to make the world a better place.
 https://sites.google.com/view/pannoncoin/
+http://pannon.boards.net
+
+10% airdrop to NXT holders completed.
 
 ----
 ## Get it! ##
@@ -38,8 +41,6 @@ https://sites.google.com/view/pannoncoin/
     - click on PAN Stop icon, or run `./stop.sh`
     - or if started from command line, ctrl+c or close the console window
 
-  - UI Errors or Stacktraces?
-    - report on BitBucket
 
   - Permissions Denied?
     - no spaces and only latin characters in the path to the NRS installation directory
