@@ -19,6 +19,11 @@ http://pannon.boards.net
     - *FreeBSD* - `pkg install openjdk8`
 
 ----
+## Compile it! ##
+
+  - if necessary with: `./compile.sh`
+  - you need jdk-8 as well
+  
 ## Run it! ##
 
   - click on the PAN icon, or start from the command line:
@@ -28,11 +33,6 @@ http://pannon.boards.net
   - wait for the JavaFX wallet window to open
   - on platforms without JavaFX, open http://localhost:5874/ in a browser
 
-----
-## Compile it! ##
-
-  - if necessary with: `./compile.sh`
-  - you need jdk-8 as well
 
 ----
 ## Troubleshooting the NRS (PAN Reference Software) ##
