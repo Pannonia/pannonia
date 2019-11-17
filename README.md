@@ -24,6 +24,16 @@ http://pannon.boards.net
   - if necessary with: `./compile.sh`
   - you need jdk-8 as well
   
+  Pre-requisites for both Unix and Windows
+========================================
+Compile classes on Unix using compile.sh
+Windows build has to be executed from a Cygwin shell (Install from https://www.cygwin.com/)
+Compile classes on Windows by running win-compile.sh from a Cygwin shell
+In order to create an obfuscated release also install proguard (http://proguard.sourceforge.net/)
+Package NXT.jar using jar.sh
+mkdir jre
+
+
 ## Run it! ##
 
   - click on the PAN icon, or start from the command line:
